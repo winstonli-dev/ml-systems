@@ -12,3 +12,7 @@ Course website and other content for the Machine Learning for Computer Systems c
   - `notebooks/` - Jupyter notebooks
   - `book/` - Course book content
   - `syllabus.md` - Course syllabus
+
+## Completed assignments
+
+- [Assignment 2: NetDiffusion](docs/assignments/2-NetDiffusion/README.md)

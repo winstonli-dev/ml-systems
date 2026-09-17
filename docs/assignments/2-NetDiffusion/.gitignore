@@ -1,0 +1,5 @@
+nd_data/
+*.zip
+.venv/
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,2 @@
+Direction,Train samples,Test samples,Accuracy,Macro F1,Baseline accuracy
+Synthetic to real,100,200,0.265,0.17558044658022895,0.1
